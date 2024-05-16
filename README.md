@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mangayarkarasi S</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Reactjs,Blockchain**
+- 🌱 I’m currently learning **MERN Stack,Blockchain**
 
 - 👯 I’m looking to collaborate on **Open source Projects**
 
